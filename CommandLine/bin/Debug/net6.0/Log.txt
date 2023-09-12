@@ -1,0 +1,131 @@
+
+
+Log Entry: 
+23:25:50 11 de setembro de 2023
+ :C:\Users\danid\OneDrive\Ambiente de Trabalho\NewFolder2 Created.
+------------------------------------------
+
+Log Entry: 
+23:25:50 11 de setembro de 2023
+ :file2.txt copied.
+------------------------------------------
+
+Log Entry: 
+23:25:50 11 de setembro de 2023
+ :file3.txt copied.
+------------------------------------------
+
+Log Entry: 
+23:25:50 11 de setembro de 2023
+ :file4.txt copied.
+------------------------------------------
+
+Log Entry: 
+23:26:00 11 de setembro de 2023
+ :file2.txt copied.
+------------------------------------------
+
+Log Entry: 
+23:26:00 11 de setembro de 2023
+ :file3.txt copied.
+------------------------------------------
+
+Log Entry: 
+23:26:00 11 de setembro de 2023
+ :file4.txt copied.
+------------------------------------------
+
+Log Entry: 
+23:26:10 11 de setembro de 2023
+ :file2.txt copied.
+------------------------------------------
+
+Log Entry: 
+23:26:10 11 de setembro de 2023
+ :file3.txt copied.
+------------------------------------------
+
+Log Entry: 
+23:26:10 11 de setembro de 2023
+ :file4.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:15 12 de setembro de 2023
+ :file2.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:15 12 de setembro de 2023
+ :file3.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:15 12 de setembro de 2023
+ :file4.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:25 12 de setembro de 2023
+ :file2.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:25 12 de setembro de 2023
+ :file3.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:25 12 de setembro de 2023
+ :file4.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:35 12 de setembro de 2023
+ :file2.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:35 12 de setembro de 2023
+ :file3.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:35 12 de setembro de 2023
+ :file4.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:45 12 de setembro de 2023
+ :file2.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:45 12 de setembro de 2023
+ :file4.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:45 12 de setembro de 2023
+ :file3.txt deleted.
+------------------------------------------
+
+Log Entry: 
+13:57:55 12 de setembro de 2023
+ :file2.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:57:55 12 de setembro de 2023
+ :file4.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:58:06 12 de setembro de 2023
+ :file2.txt copied.
+------------------------------------------
+
+Log Entry: 
+13:58:06 12 de setembro de 2023
+ :file4.txt copied.
+------------------------------------------

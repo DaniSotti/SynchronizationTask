@@ -1,0 +1,14 @@
+C:\Users\danid\source\repos\CommandLine\CommandLine\bin\Debug\net6.0\CommandLine.exe
+C:\Users\danid\source\repos\CommandLine\CommandLine\bin\Debug\net6.0\CommandLine.deps.json
+C:\Users\danid\source\repos\CommandLine\CommandLine\bin\Debug\net6.0\CommandLine.runtimeconfig.json
+C:\Users\danid\source\repos\CommandLine\CommandLine\bin\Debug\net6.0\CommandLine.dll
+C:\Users\danid\source\repos\CommandLine\CommandLine\bin\Debug\net6.0\CommandLine.pdb
+C:\Users\danid\source\repos\CommandLine\CommandLine\obj\Debug\net6.0\CommandLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\CommandLine\CommandLine\obj\Debug\net6.0\CommandLine.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\CommandLine\CommandLine\obj\Debug\net6.0\CommandLine.AssemblyInfo.cs
+C:\Users\danid\source\repos\CommandLine\CommandLine\obj\Debug\net6.0\CommandLine.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\CommandLine\CommandLine\obj\Debug\net6.0\CommandLine.dll
+C:\Users\danid\source\repos\CommandLine\CommandLine\obj\Debug\net6.0\refint\CommandLine.dll
+C:\Users\danid\source\repos\CommandLine\CommandLine\obj\Debug\net6.0\CommandLine.pdb
+C:\Users\danid\source\repos\CommandLine\CommandLine\obj\Debug\net6.0\CommandLine.genruntimeconfig.cache
+C:\Users\danid\source\repos\CommandLine\CommandLine\obj\Debug\net6.0\ref\CommandLine.dll
